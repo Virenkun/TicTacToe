@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TicTacToe(DevByViren)</string>
+    <string name="heading">Welcome To Tic-Tac-Toe</string>
+    <string name="todo">TODO</string>
+</resources>
